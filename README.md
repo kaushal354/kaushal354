@@ -76,7 +76,7 @@
 - 💼 [LinkedIn](https://www.linkedin.com/in/kaushal-prasad-a8b740113/)
 - 📷 [LeetCode](https://leetcode.com/u/ayBYMcc0c6/)
 - 💻 [GitHub](https://github.com/kaushal354)
-- 📧 Email: kaushalprasadkp354@gmail.com
+- 📧 Email:kaushal.pd123456789@gmail.com
 
 ---
 
