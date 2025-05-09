@@ -30,7 +30,7 @@
 
 ## LeetCode Stats
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/kaushal354?ext=contest)
+![LeetCode Stats](https://leetcard.jacoblin.cool/ayBYMcc0c6?ext=contest)
 
 ---
 
