@@ -28,6 +28,12 @@
 
 ---
 
+## LeetCode Stats
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/kaushal354?ext=contest)
+
+---
+
 ## 📚 Current Focus
 
 - 🔁 Daily DSA & coding practice on [LeetCode](https://leetcode.com/u/ayBYMcc0c6/)
