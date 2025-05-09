@@ -2,8 +2,7 @@
 <h3 align="center">B.Tech CSE | Aspiring Data Scientist & Full-Stack Developer</h3>
 
 <p align="center">
-  🚀 Passionate about coding, data, and building impactful projects.
-  <br>
+  🚀 Passionate about coding, data, and building impactful projects.<br>
   🎯 Focused on mastering DSA, Web Development, and Machine Learning.
 </p>
 
@@ -21,10 +20,10 @@
 
 ## 🚀 Tech Stack & Tools
 
-- 💻 **Languages**: Python, Java, C, SQL, JavaScript  
+- 💻 **Languages**: Python, Java, C, C++, SQL, JavaScript  
 - 🌐 **Web Dev**: HTML, CSS, JavaScript, Node.js, React (learning), Django  
 - 🧠 **Machine Learning**: Pandas, NumPy, Matplotlib, Scikit-learn, OpenCV  
-- 🗄️ **Databases**: Oracle SQL, MS SQL Server, MongoDB
+- 🗄️ **Databases**: Oracle SQL, MS SQL Server  
 - ⚙️ **Tools**: GitHub, Git, VS Code, Jupyter Notebook
 
 ---
@@ -40,20 +39,26 @@
 
 ## 📁 Featured Projects
 
-### 🧠 Snakebite Antidote Prediction System
-> **Stack**: Django, SQLite, ML  
-> Predicts appropriate antidotes based on snake species.
+### 🧠 [Snakebite Antidote Prediction System](https://github.com/kaushal354/snakebite-kaushal)
+> A Django-based web application that suggests the appropriate antidote based on snake species or symptoms.  
+> **Stack**: Django, SQLite, Machine Learning
+
+### 🌾 [Agriculture Guidance System (Internship Project)](https://github.com/kaushal354/upskill)
+> Designed to help farmers make informed decisions with AI-based suggestions.  
+> **Stack**: HTML, CSS, JavaScript, Python  
+> [📄 Final Report](https://github.com/kaushal354/upskillcampus/blob/main/Final_Report_Agriculture.pdf)
+
+### 🌍 [Earthquake Prediction System](https://github.com/kaushal354/earthquake-predection-system)
+> Predictive system using ML models to assess earthquake probabilities.  
+> **Stack**: Python, Pandas, Machine Learning
 
 ### 🚗 Car Counter Using YOLO & OpenCV
-> **Stack**: CVZone, YOLO, OpenCV  
-> Real-time traffic counter built during Parul Hackathon.
-
-### 🌾 Agriculture Guidance System (Internship Project)
-> [GitHub Repo](https://github.com/kaushal354/upskillcampus) | [Final Report](https://github.com/kaushal354/upskillcampus/blob/main/Final_Report_Agriculture.pdf)  
-> Designed to assist farmers using AI recommendations.
+> Real-time traffic counting system built for Parul Hackathon.  
+> **Stack**: CVZone, YOLO, OpenCV
 
 ### 🎮 Number Finding Game
-> Mini interactive web game built with JavaScript.
+> A fun mini-game to find the right number in a grid.  
+> **Stack**: JavaScript, HTML, CSS
 
 ---
 
@@ -71,9 +76,8 @@
 - 💼 [LinkedIn](https://www.linkedin.com/in/kaushal-prasad-a8b740113/)
 - 📷 [LeetCode](https://leetcode.com/u/ayBYMcc0c6/)
 - 💻 [GitHub](https://github.com/kaushal354)
-- 📧 Email: kaushal.pd123456789@gmail.com
+- 📧 Email: kaushalprasadkp354@gmail.com
 
 ---
 
 *Let’s learn, build, and grow together! 🚀*
-
