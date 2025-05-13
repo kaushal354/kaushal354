@@ -38,7 +38,7 @@
 
 - 🔁 Daily DSA & coding practice on [LeetCode](https://leetcode.com/u/ayBYMcc0c6/)
 - 🔨 Building projects using full-stack & ML tech
-- 🧩 Mastering core CS subjects: DBMS, CN, OS, TOC
+- 🧩 Mastering core CS subjects: DBMS, CN, OS
 - 📖 Improving English communication & aptitude for placements
 
 ---
