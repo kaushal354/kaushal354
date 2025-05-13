@@ -52,7 +52,6 @@
 ### 🌾 [Agriculture Guidance System (Internship Project)](https://github.com/kaushal354/upskill)
 > Designed to help farmers make informed decisions with AI-based suggestions.  
 > **Stack**: HTML, CSS, JavaScript, Python  
-> [📄 Final Report](https://github.com/kaushal354/upskillcampus/blob/main/Final_Report_Agriculture.pdf)
 
 ### 🌍 [Earthquake Prediction System](https://github.com/kaushal354/earthquake-predection-system)
 > Predictive system using ML models to assess earthquake probabilities.  
