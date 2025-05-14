@@ -73,7 +73,7 @@
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kaushal354&layout=compact&theme=radical)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kaushal354&theme=radical)
+
 
 
 ---
