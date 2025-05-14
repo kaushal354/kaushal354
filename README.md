@@ -30,7 +30,7 @@
 
 ## LeetCode Stats
 
-[![LeetCode Stats](https://leetcard.jacoblin.cool/ayBYMcc0c6?theme=unicorn&extension=activity)](https://leetcard.jacoblin.cool/JacobLinCool?theme=unicorn&extension=activity)
+[![LeetCode Stats](https://leetcard.jacoblin.cool/ayBYMcc0c6?theme=unicorn&extension=activity)](https://leetcard.jacoblin.cool/ayBYMcc0c6?theme=unicorn&extension=activity)
 
 ---
 
