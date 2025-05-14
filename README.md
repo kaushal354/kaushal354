@@ -69,10 +69,11 @@
 
 ## 📈 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kaushal354&show_icons=true&theme=radical" width="47%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kaushal354&theme=radical" width="47%" />
-</p>
+![Kaushal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kaushal354&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kaushal354&layout=compact&theme=radical)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kaushal354&theme=radical)
 
 
 ---
