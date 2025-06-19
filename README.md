@@ -10,7 +10,7 @@
 
 ## 🧑‍💻 About Me
 
-- 🎓 Currently pursuing **B.Tech in Computer Science and Engineering** (6th Semester)
+- 🎓 Currently pursuing **B.Tech in Computer Science and Engineering** (7th Semester)
 - 💼 Interned at **Bharat Intern** and **SAP Code Unnati Program**
 - 🧠 Learning daily: Python, DSA, SQL, Aptitude, Web Dev, and Machine Learning
 - 🎯 Goal: Crack top tech interviews and build meaningful software solutions
