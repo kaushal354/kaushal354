@@ -23,7 +23,7 @@
 - 💻 **Languages**: Python, Java, C, SQL, JavaScript  
 - 🌐 **Web Dev**: HTML, CSS, JavaScript, Node.js, React (learning), Django  
 - 🧠 **Machine Learning**: Pandas, NumPy, Matplotlib, Scikit-learn, OpenCV  
-- 🗄️ **Databases**: Oracle SQL, MS SQL Server  
+- 🗄️ **Databases**: Oracle SQL, MS SQL Server , MongoDB 
 - ⚙️ **Tools**: GitHub, Git, VS Code, Jupyter Notebook
 
 ---
