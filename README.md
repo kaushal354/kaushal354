@@ -39,6 +39,12 @@
 
 ---
 
+## 📈 LeetCode Stats  
+
+[![LeetCode Stats](https://leetcard.jacoblin.cool/ayBYMcc0c6?theme=unicorn&extension=activity)](https://leetcode.com/u/ayBYMcc0c6/)
+
+---
+
 ## 📁 Featured Projects  
 
 ### 🧠 [Snakebite Antidote Prediction System](https://github.com/kaushal354/snakebite-kaushal)  
@@ -83,12 +89,6 @@
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=kaushal354&theme=radical&margin-w=10&margin-h=10" />
 </p>
-
----
-
-## 📈 LeetCode Stats  
-
-[![LeetCode Stats](https://leetcard.jacoblin.cool/ayBYMcc0c6?theme=unicorn&extension=activity)](https://leetcode.com/u/ayBYMcc0c6/)
 
 ---
 
