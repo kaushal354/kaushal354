@@ -47,7 +47,7 @@
 
 ## 📁 Featured Projects  
 
-### 🧠 [Snakebite Antidote Prediction System](https://github.com/kaushal354/snakebite-kaushal)  
+### 🧠 [Snakebite Antidote Prediction System]([https://github.com/kaushal354/snakebite-kaushal](https://github.com/kaushal354/snakebite-antidote-prediction-system))  
 > Django-based AI system that predicts snake species from bite images (Cobra, Python, Russell’s Viper) with **90% accuracy**.  
 > Includes antidote recommendations, first-aid guidelines, and hospital locator.  
 > **Stack:** Django, Python, CNN, OpenCV  
