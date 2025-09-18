@@ -21,7 +21,7 @@
 ## ⚡ Tech Stack & Tools  
 
 - 💻 **Languages:** Python, Java, C, SQL, JavaScript  
-- 🌐 **Web Development:** HTML, CSS, JavaScript, Node.js, Django, MERN (learning)  
+- 🌐 **Web Development:** HTML, CSS, JavaScript, Node.js, Django , Nodejs
 - 🧠 **Machine Learning:** Pandas, NumPy, Matplotlib, Scikit-learn, OpenCV  
 - 🗄️ **Databases:** Oracle SQL, MS SQL Server, MongoDB  
 - ⚙️ **Tools:** Git, GitHub, VS Code, Jupyter Notebook  
