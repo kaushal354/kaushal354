@@ -12,7 +12,7 @@
 
 - 🎓 **B.Tech Graduate** in **Computer Science & Engineering (AI & ML)** @ Parul University (2022–2026)  
 - 💼 Currently working as a full-time **AI/ML Engineer @ myOnsite Healthcare**  
-- ⚙️ Architecting autonomous AI ecosystems (OpenClaw) and automating healthcare workflows (Medinov AI)  
+- ⚙️ Architecting autonomous automating healthcare workflows
 - 🧠 Learning daily: Prompt Engineering, LangChain, Advanced DSA, and Cloud Infrastructure  
 - 🏆 Winner, **Teacher's Day Event (Parul University)**  
 - 🎯 Goal: Build high-impact, production-grade software solutions at scale  
@@ -26,7 +26,7 @@
 - 🧠 **LLM & Agentic AI:** Prompt Engineering, LangChain, Cursor, Claude  
 - 🌐 **Web Development:** Django, FastAPI, React, Tailwind CSS, Node.js, REST APIs  
 - 🗄️ **Databases & Cloud:** Oracle Cloud Infrastructure (OCI), Oracle SQL, MySQL, MongoDB  
-- ⚙️ **Tools & DevOps:** Git, GitHub, VS Code, Grafana, Prometheus, Keycloak  
+- ⚙️ **Tools & DevOps:** Git, GitHub, VS Code, Docker
 
 ---
 
